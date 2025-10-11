@@ -1,0 +1,2 @@
+# avasyz-banlist
+avasyz banlist
