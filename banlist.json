@@ -1,8 +1,24 @@
 {
-  "bans": [
-    { "userId": 470639353, "reason": "manipulator, harassing a minor, false accusations, homophobia (fa slur), and soliciting a minor (13 yr old)  for inappropriate content (n*des)", "whoBanned": "avasyzz" },
-    { "userId": 1416222438, "reason": "manipulator, harassment, asset stealing", "whoBanned": "avasyzz" },
-    { "userId": 2324324632, "reason": "falsely global-banning a minor", "whoBanned": "avasyzz" },
-    { "userId": 1962005648, "reason": "test", "whoBanned": "avasyzz" }
-  ]
+    "bans": [
+        {
+            "userId": 470639353,
+            "reason": "manipulator, harassing a minor, false accusations, homophobia (fa slur), and soliciting a minor (13 yr old)  for inappropriate content (n*des)",
+            "whoBanned": "avasyzz"
+        },
+        {
+            "userId": 1416222438,
+            "reason": "manipulator, harassment, asset stealing",
+            "whoBanned": "avasyzz"
+        },
+        {
+            "userId": 2324324632,
+            "reason": "falsely global-banning a minor",
+            "whoBanned": "avasyzz"
+        },
+        {
+            "userId": 1962005648,
+            "reason": "test",
+            "whoBanned": "avasyzz"
+        }
+    ]
 }
